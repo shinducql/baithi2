@@ -1,0 +1,68 @@
+#box {
+
+    font-family: 'Oswald', 'Futura', sans-serif;
+    margin: 40px auto 0 auto;
+    padding: 0;
+    width: 540px;
+    height: 600px;
+    border: 3px solid black;
+    background-color: #45a945;
+}
+#page {
+    width: 400px;
+    height: 500px;
+    margin: 45px auto 0 auto;
+    border: 3px solid black;
+    background-color: #efefef;
+}
+#page h2 {
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: auto auto auto auto;
+    width: 100%;
+    height: 40px;
+    background-color: #854cc2;
+    padding-top: 20px;
+    border-bottom: 2px solid black;
+}
+ input {
+     height: 33px;
+     width: 270px;
+     margin: 22px auto 10px auto;
+     margin-left: 60px;
+     font-family:"Arial Black";
+     font-size: 90%;
+ }
+#feedback, #feedback1, #feedback2, #feedback3 {
+     color: #c92323;
+     background-repeat: no-repeat;
+     background-position: 2px 14px;
+     padding: 5px 0 0 22px;
+    margin-left: 40px;
+ }
+
+#checkbox {
+    width: 14px ;
+    height: 14px;
+    margin-top: 5px;
+}
+#submit {
+    width: 280px;
+    margin-top: 5px;
+    height: 45px;
+    background-color: #de2828;
+    border: 3px solid black;
+    color: #eadfd0;
+}
+p {
+    margin-top: 2px;
+    margin-left: 115px;
+    font-family: "Agency FB";
+    color: #14182a;
+}
+
+span{
+    color: #7777cc;
+}
