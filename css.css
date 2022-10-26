@@ -4,13 +4,13 @@
     margin: 40px auto 0 auto;
     padding: 0;
     width: 540px;
-    height: 600px;
+    height: 720px;
     border: 3px solid black;
     background-color: #45a945;
 }
 #page {
     width: 400px;
-    height: 500px;
+    height: 600px;
     margin: 45px auto 0 auto;
     border: 3px solid black;
     background-color: #efefef;
@@ -41,12 +41,13 @@
      background-position: 2px 14px;
      padding: 5px 0 0 22px;
     margin-left: 40px;
+
  }
 
 #checkbox {
     width: 14px ;
     height: 14px;
-    margin-top: 5px;
+    margin-top: 17px;
 }
 #submit {
     width: 280px;
@@ -57,7 +58,7 @@
     color: #eadfd0;
 }
 p {
-    margin-top: 2px;
+    margin-top: 5px;
     margin-left: 115px;
     font-family: "Agency FB";
     color: #14182a;
